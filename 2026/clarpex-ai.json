@@ -1,0 +1,14 @@
+{
+  "name": "Clarpex AI",
+  "url": "https://clarpex.ai/pricing?utm_source=github-indiegoodies&utm_medium=bf_directory&utm_campaign=bf2026",
+  "description": "Fix the photo you already have: unblur, upscale to 4K or 8K, restore and colorize old photos, remove watermarks and change backgrounds",
+  "category": "media",
+  "platforms": ["web"],
+  "deal": "50% off the first month, 30% off the first year, no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 9.9, "sale": 4.95, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://clarpex.ai/apple-touch-icon.png"
+}
